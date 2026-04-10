@@ -1,0 +1,33 @@
+[
+  {
+    "UserName": "Diana",
+    "ByCategory": {
+      "Cars": {
+        "GamesPlayed": 5,
+        "GamesWon": 2
+      }
+    }
+  },
+  {
+    "UserName": "Iulia",
+    "ByCategory": {
+      "Cars": {
+        "GamesPlayed": 5,
+        "GamesWon": 1
+      },
+      "All": {
+        "GamesPlayed": 4,
+        "GamesWon": 0
+      }
+    }
+  },
+  {
+    "UserName": "univ",
+    "ByCategory": {
+      "All": {
+        "GamesPlayed": 1,
+        "GamesWon": 0
+      }
+    }
+  }
+]

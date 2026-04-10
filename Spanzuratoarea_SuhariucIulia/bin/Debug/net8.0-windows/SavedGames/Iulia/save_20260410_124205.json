@@ -1,0 +1,15 @@
+{
+  "Word": "FERRARI",
+  "CurrentMask": "_ _ _ _ _ _ _",
+  "Mistakes": 5,
+  "Level": 0,
+  "SecondsLeft": 3,
+  "Category": "Cars",
+  "UsedLetters": [
+    "Q",
+    "O",
+    "T",
+    "N",
+    "L"
+  ]
+}

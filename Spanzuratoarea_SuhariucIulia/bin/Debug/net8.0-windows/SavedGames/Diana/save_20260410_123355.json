@@ -1,0 +1,13 @@
+{
+  "Word": "AUDI",
+  "CurrentMask": "_ _ _ _",
+  "Mistakes": 3,
+  "Level": 1,
+  "SecondsLeft": 7,
+  "Category": "Cars",
+  "UsedLetters": [
+    "G",
+    "K",
+    "V"
+  ]
+}

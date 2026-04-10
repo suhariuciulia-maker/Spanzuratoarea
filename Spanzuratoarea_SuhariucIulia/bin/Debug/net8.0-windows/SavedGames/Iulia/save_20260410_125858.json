@@ -1,0 +1,16 @@
+{
+  "Word": "BMW",
+  "CurrentMask": "B _ W",
+  "Mistakes": 4,
+  "Level": 0,
+  "SecondsLeft": 17,
+  "Category": "All",
+  "UsedLetters": [
+    "G",
+    "F",
+    "B",
+    "H",
+    "I",
+    "W"
+  ]
+}

@@ -1,10 +1,118 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea_SuhariucIulia\\",
+  "WorkspaceRootPath": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{14BCA2F1-2AB7-40FE-B436-3FF17B9D99EA}|Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj|d:\\an2\\sem2\\mvp\\spanzuratoarea_suhariuciulia\\spanzuratoarea_suhariuciulia\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{14BCA2F1-2AB7-40FE-B436-3FF17B9D99EA}|Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj|d:\\an2\\sem2\\mvp\\spanzuratoarea\\spanzuratoarea_suhariuciulia\\views\\gameview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BCA2F1-2AB7-40FE-B436-3FF17B9D99EA}|Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj|solutionrelative:spanzuratoarea_suhariuciulia\\views\\gameview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BCA2F1-2AB7-40FE-B436-3FF17B9D99EA}|Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj|d:\\an2\\sem2\\mvp\\spanzuratoarea\\spanzuratoarea_suhariuciulia\\views\\gameview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{14BCA2F1-2AB7-40FE-B436-3FF17B9D99EA}|Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj|solutionrelative:spanzuratoarea_suhariuciulia\\views\\gameview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BCA2F1-2AB7-40FE-B436-3FF17B9D99EA}|Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj|d:\\an2\\sem2\\mvp\\spanzuratoarea\\spanzuratoarea_suhariuciulia\\viewmodels\\gameviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BCA2F1-2AB7-40FE-B436-3FF17B9D99EA}|Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj|solutionrelative:spanzuratoarea_suhariuciulia\\viewmodels\\gameviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BCA2F1-2AB7-40FE-B436-3FF17B9D99EA}|Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj|d:\\an2\\sem2\\mvp\\spanzuratoarea\\spanzuratoarea_suhariuciulia\\helpers\\mistaketovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BCA2F1-2AB7-40FE-B436-3FF17B9D99EA}|Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj|solutionrelative:spanzuratoarea_suhariuciulia\\helpers\\mistaketovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BCA2F1-2AB7-40FE-B436-3FF17B9D99EA}|Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj|d:\\an2\\sem2\\mvp\\spanzuratoarea\\spanzuratoarea_suhariuciulia\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{14BCA2F1-2AB7-40FE-B436-3FF17B9D99EA}|Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj|solutionrelative:spanzuratoarea_suhariuciulia\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BCA2F1-2AB7-40FE-B436-3FF17B9D99EA}|Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj|d:\\an2\\sem2\\mvp\\spanzuratoarea\\spanzuratoarea_suhariuciulia\\views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BCA2F1-2AB7-40FE-B436-3FF17B9D99EA}|Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj|solutionrelative:spanzuratoarea_suhariuciulia\\views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BCA2F1-2AB7-40FE-B436-3FF17B9D99EA}|Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj|d:\\an2\\sem2\\mvp\\spanzuratoarea\\spanzuratoarea_suhariuciulia\\services\\statisticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BCA2F1-2AB7-40FE-B436-3FF17B9D99EA}|Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj|solutionrelative:spanzuratoarea_suhariuciulia\\services\\statisticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BCA2F1-2AB7-40FE-B436-3FF17B9D99EA}|Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj|d:\\an2\\sem2\\mvp\\spanzuratoarea\\spanzuratoarea_suhariuciulia\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BCA2F1-2AB7-40FE-B436-3FF17B9D99EA}|Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj|solutionrelative:spanzuratoarea_suhariuciulia\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BCA2F1-2AB7-40FE-B436-3FF17B9D99EA}|Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj|d:\\an2\\sem2\\mvp\\spanzuratoarea\\spanzuratoarea_suhariuciulia\\views\\statisticsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BCA2F1-2AB7-40FE-B436-3FF17B9D99EA}|Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj|solutionrelative:spanzuratoarea_suhariuciulia\\views\\statisticsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BCA2F1-2AB7-40FE-B436-3FF17B9D99EA}|Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj|d:\\an2\\sem2\\mvp\\spanzuratoarea\\spanzuratoarea_suhariuciulia\\views\\statisticsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{14BCA2F1-2AB7-40FE-B436-3FF17B9D99EA}|Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj|solutionrelative:spanzuratoarea_suhariuciulia\\views\\statisticsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BCA2F1-2AB7-40FE-B436-3FF17B9D99EA}|Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj|d:\\an2\\sem2\\mvp\\spanzuratoarea\\spanzuratoarea_suhariuciulia\\viewmodels\\statisticsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BCA2F1-2AB7-40FE-B436-3FF17B9D99EA}|Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj|solutionrelative:spanzuratoarea_suhariuciulia\\viewmodels\\statisticsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BCA2F1-2AB7-40FE-B436-3FF17B9D99EA}|Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj|d:\\an2\\sem2\\mvp\\spanzuratoarea\\spanzuratoarea_suhariuciulia\\services\\statsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BCA2F1-2AB7-40FE-B436-3FF17B9D99EA}|Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj|solutionrelative:spanzuratoarea_suhariuciulia\\services\\statsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BCA2F1-2AB7-40FE-B436-3FF17B9D99EA}|Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj|d:\\an2\\sem2\\mvp\\spanzuratoarea\\spanzuratoarea_suhariuciulia\\models\\userstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BCA2F1-2AB7-40FE-B436-3FF17B9D99EA}|Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj|solutionrelative:spanzuratoarea_suhariuciulia\\models\\userstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BCA2F1-2AB7-40FE-B436-3FF17B9D99EA}|Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj|d:\\an2\\sem2\\mvp\\spanzuratoarea\\spanzuratoarea_suhariuciulia\\services\\gamesaveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BCA2F1-2AB7-40FE-B436-3FF17B9D99EA}|Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj|solutionrelative:spanzuratoarea_suhariuciulia\\services\\gamesaveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BCA2F1-2AB7-40FE-B436-3FF17B9D99EA}|Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj|d:\\an2\\sem2\\mvp\\spanzuratoarea\\spanzuratoarea_suhariuciulia\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BCA2F1-2AB7-40FE-B436-3FF17B9D99EA}|Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj|solutionrelative:spanzuratoarea_suhariuciulia\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BCA2F1-2AB7-40FE-B436-3FF17B9D99EA}|Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj|d:\\an2\\sem2\\mvp\\spanzuratoarea\\spanzuratoarea_suhariuciulia\\services\\wordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BCA2F1-2AB7-40FE-B436-3FF17B9D99EA}|Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj|solutionrelative:spanzuratoarea_suhariuciulia\\services\\wordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BCA2F1-2AB7-40FE-B436-3FF17B9D99EA}|Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj|d:\\an2\\sem2\\mvp\\spanzuratoarea\\spanzuratoarea_suhariuciulia\\words.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{14BCA2F1-2AB7-40FE-B436-3FF17B9D99EA}|Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj|solutionrelative:spanzuratoarea_suhariuciulia\\words.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BCA2F1-2AB7-40FE-B436-3FF17B9D99EA}|Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj|d:\\an2\\sem2\\mvp\\spanzuratoarea\\spanzuratoarea_suhariuciulia\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BCA2F1-2AB7-40FE-B436-3FF17B9D99EA}|Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj|solutionrelative:spanzuratoarea_suhariuciulia\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BCA2F1-2AB7-40FE-B436-3FF17B9D99EA}|Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj|d:\\an2\\sem2\\mvp\\spanzuratoarea\\spanzuratoarea_suhariuciulia\\spanzuratoarea_suhariuciulia.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{14BCA2F1-2AB7-40FE-B436-3FF17B9D99EA}|Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj|solutionrelative:spanzuratoarea_suhariuciulia\\spanzuratoarea_suhariuciulia.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BCA2F1-2AB7-40FE-B436-3FF17B9D99EA}|Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj|d:\\an2\\sem2\\mvp\\spanzuratoarea\\spanzuratoarea_suhariuciulia\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BCA2F1-2AB7-40FE-B436-3FF17B9D99EA}|Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj|solutionrelative:spanzuratoarea_suhariuciulia\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BCA2F1-2AB7-40FE-B436-3FF17B9D99EA}|Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj|d:\\an2\\sem2\\mvp\\spanzuratoarea\\spanzuratoarea_suhariuciulia\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14BCA2F1-2AB7-40FE-B436-3FF17B9D99EA}|Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj|solutionrelative:spanzuratoarea_suhariuciulia\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BCA2F1-2AB7-40FE-B436-3FF17B9D99EA}|Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj|d:\\an2\\sem2\\mvp\\spanzuratoarea\\spanzuratoarea_suhariuciulia\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BCA2F1-2AB7-40FE-B436-3FF17B9D99EA}|Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj|solutionrelative:spanzuratoarea_suhariuciulia\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BCA2F1-2AB7-40FE-B436-3FF17B9D99EA}|Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj|d:\\an2\\sem2\\mvp\\spanzuratoarea\\spanzuratoarea_suhariuciulia\\models\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BCA2F1-2AB7-40FE-B436-3FF17B9D99EA}|Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj|solutionrelative:spanzuratoarea_suhariuciulia\\models\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BCA2F1-2AB7-40FE-B436-3FF17B9D99EA}|Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj|d:\\an2\\sem2\\mvp\\spanzuratoarea\\spanzuratoarea_suhariuciulia\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BCA2F1-2AB7-40FE-B436-3FF17B9D99EA}|Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj|solutionrelative:spanzuratoarea_suhariuciulia\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BCA2F1-2AB7-40FE-B436-3FF17B9D99EA}|Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj|d:\\an2\\sem2\\mvp\\spanzuratoarea\\spanzuratoarea_suhariuciulia\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{14BCA2F1-2AB7-40FE-B436-3FF17B9D99EA}|Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj|solutionrelative:spanzuratoarea_suhariuciulia\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BCA2F1-2AB7-40FE-B436-3FF17B9D99EA}|Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj|d:\\an2\\sem2\\mvp\\spanzuratoarea\\spanzuratoarea_suhariuciulia\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BCA2F1-2AB7-40FE-B436-3FF17B9D99EA}|Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj|solutionrelative:spanzuratoarea_suhariuciulia\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BCA2F1-2AB7-40FE-B436-3FF17B9D99EA}|Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj|d:\\an2\\sem2\\mvp\\spanzuratoarea\\spanzuratoarea_suhariuciulia\\models\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BCA2F1-2AB7-40FE-B436-3FF17B9D99EA}|Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj|solutionrelative:spanzuratoarea_suhariuciulia\\models\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BCA2F1-2AB7-40FE-B436-3FF17B9D99EA}|Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj|d:\\an2\\sem2\\mvp\\spanzuratoarea\\spanzuratoarea_suhariuciulia\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BCA2F1-2AB7-40FE-B436-3FF17B9D99EA}|Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj|solutionrelative:spanzuratoarea_suhariuciulia\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,20 +122,359 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameView.xaml",
+              "DocumentMoniker": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea\\Spanzuratoarea_SuhariucIulia\\Views\\GameView.xaml",
+              "RelativeDocumentMoniker": "Spanzuratoarea_SuhariucIulia\\Views\\GameView.xaml",
+              "ToolTip": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea\\Spanzuratoarea_SuhariucIulia\\Views\\GameView.xaml",
+              "RelativeToolTip": "Spanzuratoarea_SuhariucIulia\\Views\\GameView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-08T15:19:46.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameViewModel.cs",
+              "DocumentMoniker": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea\\Spanzuratoarea_SuhariucIulia\\ViewModels\\GameViewModel.cs",
+              "RelativeDocumentMoniker": "Spanzuratoarea_SuhariucIulia\\ViewModels\\GameViewModel.cs",
+              "ToolTip": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea\\Spanzuratoarea_SuhariucIulia\\ViewModels\\GameViewModel.cs",
+              "RelativeToolTip": "Spanzuratoarea_SuhariucIulia\\ViewModels\\GameViewModel.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAUwGQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T10:24:14.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GameView.xaml.cs",
+              "DocumentMoniker": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea\\Spanzuratoarea_SuhariucIulia\\Views\\GameView.xaml.cs",
+              "RelativeDocumentMoniker": "Spanzuratoarea_SuhariucIulia\\Views\\GameView.xaml.cs",
+              "ToolTip": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea\\Spanzuratoarea_SuhariucIulia\\Views\\GameView.xaml.cs",
+              "RelativeToolTip": "Spanzuratoarea_SuhariucIulia\\Views\\GameView.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA+wB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T15:20:07.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MistakeToVisibilityConverter.cs",
+              "DocumentMoniker": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea\\Spanzuratoarea_SuhariucIulia\\Helpers\\MistakeToVisibilityConverter.cs",
+              "RelativeDocumentMoniker": "Spanzuratoarea_SuhariucIulia\\Helpers\\MistakeToVisibilityConverter.cs",
+              "ToolTip": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea\\Spanzuratoarea_SuhariucIulia\\Helpers\\MistakeToVisibilityConverter.cs",
+              "RelativeToolTip": "Spanzuratoarea_SuhariucIulia\\Helpers\\MistakeToVisibilityConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T09:57:41.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginView.xaml",
+              "DocumentMoniker": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea\\Spanzuratoarea_SuhariucIulia\\Views\\LoginView.xaml",
+              "RelativeDocumentMoniker": "Spanzuratoarea_SuhariucIulia\\Views\\LoginView.xaml",
+              "ToolTip": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea\\Spanzuratoarea_SuhariucIulia\\Views\\LoginView.xaml",
+              "RelativeToolTip": "Spanzuratoarea_SuhariucIulia\\Views\\LoginView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-08T10:30:37.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginView.xaml.cs",
+              "DocumentMoniker": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea\\Spanzuratoarea_SuhariucIulia\\Views\\LoginView.xaml.cs",
+              "RelativeDocumentMoniker": "Spanzuratoarea_SuhariucIulia\\Views\\LoginView.xaml.cs",
+              "ToolTip": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea\\Spanzuratoarea_SuhariucIulia\\Views\\LoginView.xaml.cs",
+              "RelativeToolTip": "Spanzuratoarea_SuhariucIulia\\Views\\LoginView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T10:32:06.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StatisticsService.cs",
+              "DocumentMoniker": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea\\Spanzuratoarea_SuhariucIulia\\Services\\StatisticsService.cs",
+              "RelativeDocumentMoniker": "Spanzuratoarea_SuhariucIulia\\Services\\StatisticsService.cs",
+              "ToolTip": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea\\Spanzuratoarea_SuhariucIulia\\Services\\StatisticsService.cs",
+              "RelativeToolTip": "Spanzuratoarea_SuhariucIulia\\Services\\StatisticsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T16:31:11.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea\\Spanzuratoarea_SuhariucIulia\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Spanzuratoarea_SuhariucIulia\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea\\Spanzuratoarea_SuhariucIulia\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "Spanzuratoarea_SuhariucIulia\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAwwFMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T10:24:03.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StatisticsView.xaml.cs",
+              "DocumentMoniker": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea\\Spanzuratoarea_SuhariucIulia\\Views\\StatisticsView.xaml.cs",
+              "RelativeDocumentMoniker": "Spanzuratoarea_SuhariucIulia\\Views\\StatisticsView.xaml.cs",
+              "ToolTip": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea\\Spanzuratoarea_SuhariucIulia\\Views\\StatisticsView.xaml.cs",
+              "RelativeToolTip": "Spanzuratoarea_SuhariucIulia\\Views\\StatisticsView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T16:32:46.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StatisticsView.xaml",
+              "DocumentMoniker": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea\\Spanzuratoarea_SuhariucIulia\\Views\\StatisticsView.xaml",
+              "RelativeDocumentMoniker": "Spanzuratoarea_SuhariucIulia\\Views\\StatisticsView.xaml",
+              "ToolTip": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea\\Spanzuratoarea_SuhariucIulia\\Views\\StatisticsView.xaml",
+              "RelativeToolTip": "Spanzuratoarea_SuhariucIulia\\Views\\StatisticsView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-08T16:32:31.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StatisticsViewModel.cs",
+              "DocumentMoniker": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea\\Spanzuratoarea_SuhariucIulia\\ViewModels\\StatisticsViewModel.cs",
+              "RelativeDocumentMoniker": "Spanzuratoarea_SuhariucIulia\\ViewModels\\StatisticsViewModel.cs",
+              "ToolTip": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea\\Spanzuratoarea_SuhariucIulia\\ViewModels\\StatisticsViewModel.cs",
+              "RelativeToolTip": "Spanzuratoarea_SuhariucIulia\\ViewModels\\StatisticsViewModel.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T16:31:56.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GameSaveService.cs",
+              "DocumentMoniker": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea\\Spanzuratoarea_SuhariucIulia\\Services\\GameSaveService.cs",
+              "RelativeDocumentMoniker": "Spanzuratoarea_SuhariucIulia\\Services\\GameSaveService.cs",
+              "ToolTip": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea\\Spanzuratoarea_SuhariucIulia\\Services\\GameSaveService.cs",
+              "RelativeToolTip": "Spanzuratoarea_SuhariucIulia\\Services\\GameSaveService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T12:48:49.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea\\Spanzuratoarea_SuhariucIulia\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Spanzuratoarea_SuhariucIulia\\Models\\User.cs",
+              "ToolTip": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea\\Spanzuratoarea_SuhariucIulia\\Models\\User.cs",
+              "RelativeToolTip": "Spanzuratoarea_SuhariucIulia\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T10:22:56.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserStatistics.cs",
+              "DocumentMoniker": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea\\Spanzuratoarea_SuhariucIulia\\Models\\UserStatistics.cs",
+              "RelativeDocumentMoniker": "Spanzuratoarea_SuhariucIulia\\Models\\UserStatistics.cs",
+              "ToolTip": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea\\Spanzuratoarea_SuhariucIulia\\Models\\UserStatistics.cs",
+              "RelativeToolTip": "Spanzuratoarea_SuhariucIulia\\Models\\UserStatistics.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T10:23:24.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StatsService.cs",
+              "DocumentMoniker": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea\\Spanzuratoarea_SuhariucIulia\\Services\\StatsService.cs",
+              "RelativeDocumentMoniker": "Spanzuratoarea_SuhariucIulia\\Services\\StatsService.cs",
+              "ToolTip": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea\\Spanzuratoarea_SuhariucIulia\\Services\\StatsService.cs",
+              "RelativeToolTip": "Spanzuratoarea_SuhariucIulia\\Services\\StatsService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T12:49:56.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WordService.cs",
+              "DocumentMoniker": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea\\Spanzuratoarea_SuhariucIulia\\Services\\WordService.cs",
+              "RelativeDocumentMoniker": "Spanzuratoarea_SuhariucIulia\\Services\\WordService.cs",
+              "ToolTip": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea\\Spanzuratoarea_SuhariucIulia\\Services\\WordService.cs",
+              "RelativeToolTip": "Spanzuratoarea_SuhariucIulia\\Services\\WordService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T16:11:32.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "words.json",
+              "DocumentMoniker": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea\\Spanzuratoarea_SuhariucIulia\\words.json",
+              "RelativeDocumentMoniker": "Spanzuratoarea_SuhariucIulia\\words.json",
+              "ToolTip": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea\\Spanzuratoarea_SuhariucIulia\\words.json",
+              "RelativeToolTip": "Spanzuratoarea_SuhariucIulia\\words.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-08T14:57:47.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea\\Spanzuratoarea_SuhariucIulia\\Services\\FileService.cs",
+              "RelativeDocumentMoniker": "Spanzuratoarea_SuhariucIulia\\Services\\FileService.cs",
+              "ToolTip": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea\\Spanzuratoarea_SuhariucIulia\\Services\\FileService.cs",
+              "RelativeToolTip": "Spanzuratoarea_SuhariucIulia\\Services\\FileService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T10:24:54.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Spanzuratoarea_SuhariucIulia.csproj",
+              "DocumentMoniker": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea\\Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj",
+              "RelativeDocumentMoniker": "Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj",
+              "ToolTip": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea\\Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj",
+              "RelativeToolTip": "Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-08T15:47:44.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea\\Spanzuratoarea_SuhariucIulia\\Commands\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Spanzuratoarea_SuhariucIulia\\Commands\\RelayCommand.cs",
+              "ToolTip": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea\\Spanzuratoarea_SuhariucIulia\\Commands\\RelayCommand.cs",
+              "RelativeToolTip": "Spanzuratoarea_SuhariucIulia\\Commands\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T10:24:30.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia\\MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea\\Spanzuratoarea_SuhariucIulia\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Spanzuratoarea_SuhariucIulia\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea\\Spanzuratoarea_SuhariucIulia\\MainWindow.xaml.cs",
               "RelativeToolTip": "Spanzuratoarea_SuhariucIulia\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAlwBEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T15:14:50.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea\\Spanzuratoarea_SuhariucIulia\\ViewModels\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "Spanzuratoarea_SuhariucIulia\\ViewModels\\BaseViewModel.cs",
+              "ToolTip": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea\\Spanzuratoarea_SuhariucIulia\\ViewModels\\BaseViewModel.cs",
+              "RelativeToolTip": "Spanzuratoarea_SuhariucIulia\\ViewModels\\BaseViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-02T08:05:43.009Z",
+              "WhenOpened": "2026-04-08T10:23:45.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea\\Spanzuratoarea_SuhariucIulia\\Models\\GameState.cs",
+              "RelativeDocumentMoniker": "Spanzuratoarea_SuhariucIulia\\Models\\GameState.cs",
+              "ToolTip": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea\\Spanzuratoarea_SuhariucIulia\\Models\\GameState.cs",
+              "RelativeToolTip": "Spanzuratoarea_SuhariucIulia\\Models\\GameState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T10:23:09.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea\\Spanzuratoarea_SuhariucIulia\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Spanzuratoarea_SuhariucIulia\\Services\\UserService.cs",
+              "ToolTip": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea\\Spanzuratoarea_SuhariucIulia\\Services\\UserService.cs",
+              "RelativeToolTip": "Spanzuratoarea_SuhariucIulia\\Services\\UserService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T12:47:45.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea\\Spanzuratoarea_SuhariucIulia\\App.xaml",
+              "RelativeDocumentMoniker": "Spanzuratoarea_SuhariucIulia\\App.xaml",
+              "ToolTip": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea\\Spanzuratoarea_SuhariucIulia\\App.xaml",
+              "RelativeToolTip": "Spanzuratoarea_SuhariucIulia\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-08T11:23:03.355Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea\\Spanzuratoarea_SuhariucIulia\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Spanzuratoarea_SuhariucIulia\\App.xaml.cs",
+              "ToolTip": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea\\Spanzuratoarea_SuhariucIulia\\App.xaml.cs",
+              "RelativeToolTip": "Spanzuratoarea_SuhariucIulia\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T11:23:58.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PlayerStats.cs",
+              "DocumentMoniker": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea\\Spanzuratoarea_SuhariucIulia\\Models\\PlayerStats.cs",
+              "RelativeDocumentMoniker": "Spanzuratoarea_SuhariucIulia\\Models\\PlayerStats.cs",
+              "ToolTip": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea\\Spanzuratoarea_SuhariucIulia\\Models\\PlayerStats.cs",
+              "RelativeToolTip": "Spanzuratoarea_SuhariucIulia\\Models\\PlayerStats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T12:46:36.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea\\Spanzuratoarea_SuhariucIulia\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Spanzuratoarea_SuhariucIulia\\AssemblyInfo.cs",
+              "ToolTip": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea\\Spanzuratoarea_SuhariucIulia\\AssemblyInfo.cs",
+              "RelativeToolTip": "Spanzuratoarea_SuhariucIulia\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T11:25:57.719Z"
             }
           ]
         }

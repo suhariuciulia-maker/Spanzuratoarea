@@ -1,0 +1,6 @@
+﻿{
+  "All": [],
+  "Cars": [ "DACIA", "BMW", "AUDI", "FERRARI" ],
+  "Movies": [ "TITANIC", "INCEPTION", "GLADIATOR" ],
+  "Rivers": [ "DUNAREA", "NIL", "AMAZON" ]
+}

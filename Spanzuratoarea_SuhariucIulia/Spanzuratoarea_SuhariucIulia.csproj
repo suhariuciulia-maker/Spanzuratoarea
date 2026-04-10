@@ -9,13 +9,30 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Commands\" />
-    <Folder Include="Resources\Images\" />
-    <Folder Include="Resources\Words\" />
-    <Folder Include="Views\" />
-    <Folder Include="Services\" />
-    <Folder Include="ViewModels\" />
-    <Folder Include="Models\" />
+    <None Remove="Resources\Images\hang0.png" />
+    <None Remove="Resources\Images\hang1.png" />
+    <None Remove="Resources\Images\hang2.png" />
+    <None Remove="Resources\Images\hang3.png" />
+    <None Remove="Resources\Images\hang4.png" />
+    <None Remove="Resources\Images\hang5.png" />
+    <None Remove="Resources\Images\hang6.png" />
+    <None Remove="words.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="words.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resources\Images\hang0.png" />
+    <Resource Include="Resources\Images\hang1.png" />
+    <Resource Include="Resources\Images\hang2.png" />
+    <Resource Include="Resources\Images\hang3.png" />
+    <Resource Include="Resources\Images\hang4.png" />
+    <Resource Include="Resources\Images\hang5.png" />
+    <Resource Include="Resources\Images\hang6.png" />
   </ItemGroup>
 
 </Project>

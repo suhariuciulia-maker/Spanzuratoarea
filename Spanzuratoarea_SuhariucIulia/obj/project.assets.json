@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj",
+      "projectUniqueName": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea\\Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj",
       "projectName": "Spanzuratoarea_SuhariucIulia",
-      "projectPath": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj",
+      "projectPath": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea\\Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia.csproj",
       "packagesPath": "C:\\Users\\suhar\\.nuget\\packages\\",
-      "outputPath": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea_SuhariucIulia\\Spanzuratoarea_SuhariucIulia\\obj\\",
+      "outputPath": "D:\\AN2\\SEM2\\MVP\\Spanzuratoarea\\Spanzuratoarea_SuhariucIulia\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
